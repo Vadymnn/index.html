@@ -1,22 +1,42 @@
-### AL ###
-#Template for AL projects for Dynamics 365 Business Central
-#launch.json folder
-.vscode/
-#Cache folder
-.alcache/
-#Symbols folder
-.alpackages/
-#Snapshots folder
-.snapshots/
-#Testing Output folder
-.output/
-#Extension App-file
-*.app
-#Rapid Application Development File
-rad.json
-#Translation Base-file
-*.g.xlf
-#License-file
-*.flf
-#Test results file
-TestResults.xml
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body> 
+    <header>WebStudio
+        <nav> <ul><li><a href="#">Студія</a></li>
+        <li><a href="#">Портфоліо</a></li>
+        <li><a href="#">Контакти</a></li>
+    </ul></nav>
+<ul><li><a href="mailto:info@devstudio.com">info@devstudio.com</a></li> 
+<li> <a href="+380961111111">+38 096 111 11 11</a></li></ul></header>
+<main> <section><h3>УВАГА ДО ДЕТАЛЕЙ</h3><li><p>Ідейні міркування, і навіть початок повсякденної роботи з формування позиції.</p></li>
+<li><h3>ПУНКТУАЛЬНІСТЬ</h3></li>
+<p>Завдання організації, особливо рамки і місце навчання кадрів тягне у себе.</p>
+<li><h3>ПЛАНУВАННЯ</h3></li>
+<p>Так само консультація з широким активом значною мірою зумовлює.</p>
+<li><h3>СУЧАСНІ ТЕХНОЛОГІЇ</h3></li>
+<p>Значимість цих проблем настільки очевидна, що реалізація планових завдань.</p>
+<h1>Чим ми займаємося</h1>
+<img src="./imgs/html.css/img (5).jpg" alt="">
+<img src="./imgs/html.css/html.css/img (6).jpg" alt="">
+<img src="./imgs/html.css/html.css/img (7).jpg" alt="">
+<h1>Наша команда</h1>
+<img src="./imgs/html.css/html.css/img (8).jpg" alt="">
+<p>Ігор Дем'яненко|Product Designer</p>
+<img src="./imgs/html.css/html.css/img (9).jpg" alt="">
+<p>Ольга Рєпіна|Frontend Developer</p>
+<img src="./imgs/html.css/html.css/img (10).jpg" alt="">
+<p>Микола Тарасов|Marketing</p>
+<img src="./imgs/html.css/html.css/img (11).jpg" alt="">
+<p>Михайло Єрмаков|UI Designer</p>
+<footer><h3>WebStudio</h3>
+<address>м. Київ, пр-т Лесі Українки, 26 | info@devstudio.com | +38 096 111 11 11
+</address></footer>
+</section></main>
+</body>
+</html>
