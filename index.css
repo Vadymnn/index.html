@@ -1,0 +1,39 @@
+.nav-link{
+    
+font-family: 'Playfair Display';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 19px;
+/* identical to box height */
+
+color: #03A9F4;
+
+
+}
+.nav-link:hover {}
+ul, ol{
+    list-style: none;
+}
+a{
+    text-decoration: none;
+}
+.item:first-child{
+    background-color: gray;
+    width: 300px;
+}
+.item:nth-child(even){
+    background-color: aqua;
+    width: 500px;
+}
+.item:nth-child(odd){
+    background-color: blueviolet;
+    width: 500px;
+}
+.fodd{ 
+    outline: none;
+    border: 10px solid red;
+}
+.item p{
+    color: #03A9F4;
+}
